@@ -1,4 +1,5 @@
 # Kita akan mulai dengan mengimpor beberapa library penting yang akan kita gunakan
+import matplotlib matplotlib.use('Agg')
 from turtle import width
 import streamlit as st
 import pandas as pd
