@@ -8,7 +8,6 @@ import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
-import Tkinter
 
 # Membangun aplikasi dashboard
 st.title("Dashboard COVID-19 di Indonesia")
